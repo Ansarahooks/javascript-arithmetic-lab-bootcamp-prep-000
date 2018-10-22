@@ -1,1 +1,4 @@
-add(1,80)
+function add(num) {
+  num = a + b;
+  return num;
+}
